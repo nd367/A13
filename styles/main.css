@@ -59,7 +59,7 @@ header h3 {
 }
 #nav_menu ul li {
 	float: left;
-	flex-basis: 20%;
+
 }
 
 #nav_menu ul li a {
@@ -88,6 +88,9 @@ header h3 {
 	content: "";
 	clear: both;
 	display: block;
+}
+#nav_menu ul li ul {
+	width: 20%;
 }
 main {
 	clear: left;
