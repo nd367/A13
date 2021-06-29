@@ -57,6 +57,7 @@ header h3 {
 	padding: 0;
 	position: relative;
 }
+
 #nav_menu ul li {
 	float: left;
 
@@ -129,6 +130,7 @@ section ul {
 }
 section li {
 	padding-bottom: .35em;
+	list-style-type: circle;
 }
 article {
 	padding: .5em 0;
